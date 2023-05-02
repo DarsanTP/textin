@@ -17,3 +17,4 @@ git branch -M main
 git remote add origin https://github.com/DarsanTP/textin.git
 git push -u origin main`
 [its me](https://github.com/DarsanTP/textin)
+![alt text](https://github.com/DarsanTP/textin/blob/main/img/Capture.PNG)
